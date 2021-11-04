@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola, soy Cristian Restrepo 👋
+---
 
-<!--
-**cristiandares/cristiandares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center><i>Ingeniero de sistemas en formacion 🎓 - Cursando 7mo semestre 🚀<i></center><i>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center><i>_⭐ Amante del código, apasionado por el backend, el aprendizaje continuo 📚 y la construcción 🛠️ de aplicaciones que generen un alto impacto en la vida cotidiana y laboral de las personas 😃. Apasionado por la tecnología 💻, con interés de trabajar en las áreas de análisis de datos, desarrollo 🔨 de aplicaciones web y calidad de software. Con experiencia en desarrollo de aplicaciones en los lenguajes de programación Java JEE, Java con Spring, SpringBoot, Microservicios, JavaScript. También, con herramientas de desarrollo web como Angular, HTML 5, CSS 3 y Servicios REST.</i></center>
+
+---
+
+## Lenguajes
+
+---
+Con ❤️ por [cristiandares](https://github.com/cristiandares) 🐍
