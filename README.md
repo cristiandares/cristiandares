@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Cristian Restrepo</h1>
 <h3 align="center">⭐ Amante del código, apasionado por el backend, el aprendizaje continuo 📚 y la construcción 🛠️ de aplicaciones que generen un alto impacto en la vida cotidiana y laboral de las personas 😃. Apasionado por la tecnología 💻, con interés de trabajar en las áreas de análisis de datos, desarrollo 🔨 de aplicaciones web y calidad de software. Con experiencia en desarrollo de aplicaciones en los lenguajes de programación Java JEE, Java con Spring, SpringBoot, Microservicios, JavaScript. También, con herramientas de desarrollo web como Angular, HTML 5, CSS 3 y Servicios REST.</h3>
 
-<hr>
-
 - 🌱 Actualmente estoy aprendiendo **Docker, AWS**
 
 - 💬 Preguntame acerca de **Java, Spring Boot, Angular, PostgreSQL**
